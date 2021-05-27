@@ -95,7 +95,6 @@ Alla ovat pelin linjaukset, sekä esimerkkejä niiden motiiveista. Esimerkkimoti
 * Ylläpidä maan lakeja
 * Täytä hahmolle tärkeä lupaus tai sopimus
 * Aseta joku oikeuden eteen (tai *muuten* sovella oikeutta)
-* Välj heder och ära över personlig vinst
 * Valitse kunnia ennen henkilökohtaista hyötyä
 * Palauta omaisuus oikeutetulle omistajalleen
 
