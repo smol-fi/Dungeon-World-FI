@@ -29,7 +29,7 @@ Pelissä ei varsinaisesti ole vuoroja, vaan pelaajat saavat aina keskeyttää ta
 
 Hahmot luodaan ryhmänä ensimmäisen pelikerran aikana, koska pelaajien mielikuvituksen tuomat mahdollisuudet ja rajoitteet vaikuttavat hahmojen luontiin. Pelaajat vuorottelevat askel askeleelta valintojen tekemisestä ja reagoimisesta muihin valintoihin, ja vasta kun kaikki ovat tyytyväisiä, jatketaan seuraavaan vaiheeseen hahmonluomisprosessissa.
 
-Vaiheet eivät suoranaisesti ole loogisesti järjestyksessä hahmosivuilla (ks. [Pelikirja](https://dungeon-world.com/downloads/Dungeon_World_Play_Sheets.pdf)), vaan hahmosivut ovat suunniteltuja ollakseen helposti tarkasteltaviksi pelin kulun aikana. Tämän takia on tärkeää seurata allaolevaa järjestystä kiinnostavien ja syvällisten hahmojen luomiseksi.
+Vaiheet eivät suoranaisesti ole loogisesti järjestyksessä hahmosivuilla (ks. [Pelikirja](https://dungeon-world.com/downloads/Dungeon_World_Play_Sheets.pdf)), vaan hahmosivut ovat suunniteltuja ollakseen helposti tarkasteltavina pelin aikana. Tämän takia on tärkeää seurata allaolevaa järjestystä kiinnostavien ja syvällisten hahmojen luomiseksi.
 
 > Hahmosi tietää harvoin samoja asioita joita itse! Jos kuulet ennen pelin alkua jotain muiden hahmoista: mieti, ettei hahmosi välttämättä koskaan ole edes tavannut toista hahmoa.
 
