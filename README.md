@@ -65,7 +65,6 @@ Kun olet asettanut attribuutit, laske allaolevan taulukon mukaisesti noppamuuttu
 
 ### 4. Laske hahmosi maksimielämä
 
-Attributet CON används för att räkna ut maximala hälsan med formeln bashälsa+CON. Bashälsan ligger på karaktärbladet nära fältet för maximal hälsa.
 Constitutionia (CON) käytetään hahmon maksimielämän laskemiseen yksinkertaisella kaavalla peruselämä+CON. Peruselämäsi löytyy hahmosivulta.
 
 ### 5. Päätä hahmosi aloituskyvyt
