@@ -100,7 +100,6 @@ Alla ovat pelin linjaukset, sekä esimerkkejä niiden motiiveista. Esimerkkimoti
 * Palauta omaisuus oikeutetulle omistajalleen
 
 #### Hyvä (Good)
-* Hjälp någon annan trots hotande fara
 * Auta jotakuta vaarasta piittaamatta
 * Johda muita vanhurskaaseen taistoon
 * Luovu mahdista tai rikkauksista yhteisen hyvän tähden
@@ -114,7 +113,6 @@ Alla ovat pelin linjaukset, sekä esimerkkejä niiden motiiveista. Esimerkkimoti
 * Paljasta kätketty totuus
 
 #### Kaoottinen (Chaotic)
-* Avslöja korruption
 * Paljasta korruptio
 * Riko jotain kohtuutonta lakia jonkun muun hyväksi
 * Päihitä hirmuvaltias
