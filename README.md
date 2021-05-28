@@ -31,7 +31,7 @@ Hahmot luodaan ryhmänä ensimmäisen pelikerran aikana, koska pelaajien mieliku
 
 Vaiheet eivät suoranaisesti ole loogisesti järjestyksessä hahmosivuilla (ks. [Pelikirja](https://dungeon-world.com/downloads/Dungeon_World_Play_Sheets.pdf)), vaan hahmosivut ovat suunniteltuja ollakseen helposti tarkasteltavina pelin aikana. Tämän takia on tärkeää seurata allaolevaa järjestystä kiinnostavien ja syvällisten hahmojen luomiseksi.
 
-> Hahmosi tietää harvoin samoja asioita joita itse! Jos kuulet ennen pelin alkua jotain muiden hahmoista: mieti, ettei hahmosi välttämättä koskaan ole edes tavannut toista hahmoa.
+> Hahmo eroaa pelaajasta. Hahmo on pelaajan kontrolloima, elävä osa *tarinaa*. Hahmosi tietää harvoin samoja asioita joita pelaaja itse! Jos kuulet ennen pelin alkua jotain muiden hahmoista: mieti, ettei hahmosi välttämättä koskaan ole edes tavannut toista hahmoa.
 
 ### 1. Päätä hahmon luokka, rotu, sukupuoli ja nimi
 
@@ -131,7 +131,7 @@ Jokaisen hahmoluokan paitsi Thief on pakko valita olemaan kertomatta suuntaukses
 
 ### 7. Esittele itsesi muille pelaajille ja Game Masterille
 
-Nyt on aika esitellä hahmosi sekä muille pelaajille, että Game Masterille. Kerro miltä hahmosi näyttää, kuka hän on, sekä minkä luokan valitsit muut seikat jotka vaaditaan *hahmojen* oppiakseen tuntemaan *sinun hahmosi*. Esittely voidaan keskeyttää yksityiskohtien edistämiseksi. GM voi esimerkiksi kysyä jos hahmosi on ennen tavannut jonkun muista hahmoista, hahmon siteistä muihin hahmoisin sekä muita tarinaa syventäviä seikkoja.
+Nyt on aika esitellä hahmosi sekä muille pelaajille, että Game Masterille. Kerro miltä hahmosi näyttää, kuka hän on, sekä minkä luokan valitsit ja muut seikat jotka vaaditaan, jotta *hahmot* oppivat tuntemaan *sinun hahmosi*. Esittely voidaan keskeyttää yksityiskohtien edistämiseksi. GM voi esimerkiksi kysyä jos hahmosi on ennen tavannut jonkun muista hahmoista, hahmon siteistä muihin hahmoisin sekä muita tarinaa syventäviä seikkoja.
 
 > Tämä vaihe saattaa vaikuttaa turhalta, mutta useimmiten johtaa kiinnostavampaan hahmoon ja sen paikkaan *tarinassa*.
 
