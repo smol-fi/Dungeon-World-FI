@@ -37,7 +37,7 @@ Vaiheet eivät suoranaisesti ole loogisesti järjestyksessä hahmosivuilla (ks. 
 
 Pelaajat aloittavat valitsemalla hahmolleen luokan, rodun ja sukupuolen, jonka perusteella hahmo nimetään. Pelikirjasta löytyy esimerkkejä sopivista nimistä, mutta pelaaja voi nimetä hahmonsa lähes miksi tahansa. Tärkeintä on, että hahmo joko luo tai seuraa *tarinaa*. Sääntöjen mukaan kahdella pelaajalla ei voi olla sama luokka, mutta samaa rotua voi olla useampi pelaaja. Jos kaksi pelaajaa tahtoo pelata samalla luokalla, joutuvat he ~~tapella kuolemaan asiasta~~ tulla yhteisymmärrykseen vaikka noppaa heittämällä. Myöhemmin, jos syystä tai toisesta (esim. kuolema) pelaaja luo toisen hahmonsa, voi hän valita luokan, joka on jo toisella hahmolla.
 
-> Yrittäkää luoda ryhmä, joiden kyvyt ja attribuutit tukevat toisiaan. Voi myös tahallaan luoda hahmon joka ei tue muita ryhmän jäseniä, sillä hahmojenväliset konfliktit ja yhteensopimattomuudet voivat johtaa kiinnostaviin tilanteisiin! Muista myös, että jokaisen valinnan mukana tulee sekä hyviä, että huonoja puolia. Kaikki rodut eivät ole luotu kaikkiin luokkiin.
+> Yrittäkää luoda ryhmä, joiden kyvyt ja attribuutit tukevat toisiaan. Voi myös tahallaan luoda hahmon joka ei tue muita ryhmän jäseniä, sillä hahmojenväliset konfliktit ja yhteensopimattomuudet voivat johtaa kiinnostaviin tilanteisiin! Muista myös, että jokaisen valinnan mukana tulee sekä hyviä, että huonoja puolia. Kaikki rodut eivät ole luotuja kaikkiin luokkiin.
 
 ### 2. Päätä hahmosi ulkonäkö
 
