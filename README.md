@@ -85,11 +85,11 @@ Jos pelaajan mielestä hahmon maailmankuva on muuttunut, voi hän milloin tahans
 
 Hahmon motiivia saa myös muuttaa suuntauksen sisäisesti, joka kuvastaa lähinnä prioriteettien muuttumista, eikä täyttä muunnosta hahmon ajattelussa.
 
-### suuntauksia ja esimerkkimotiiveja
+### Suuntauksia ja esimerkkimotiiveja
 
 Alla ovat pelin suuntaukset, sekä esimerkkejä niiden motiiveista. Esimerkkimotiivit ovat hyvä tapa oppia suuntausten ainutlaatuisuuksista ja ominaisuuksista.
 
-> suuntaukset eivät myöskään ole kiveen hakattuja, vaan myös ne mukautuvat *tarinan* ja pelin kulun mukaan.
+> Suuntaukset eivät myöskään ole kiveen hakattuja, vaan myös ne mukautuvat *tarinan* ja pelin kulun mukaan.
 
 #### Lain ylläpitäjä (Lawful)
 * Ylläpidä maan lakeja
@@ -127,7 +127,7 @@ Alla ovat pelin suuntaukset, sekä esimerkkejä niiden motiiveista. Esimerkkimot
 
 Jokaisen hahmoluokan paitsi Thief on pakko valita olemaan kertomatta suuntauksestaan muille pelaajille, GM:lle tai muille olennoille, tai kertomaan joko puolitotuuden tai totuuden kokonaisuudessaan. Thief saa valehdella vapaasti, oman mielensä mukaan. Myöhemmin hahmot voivat kertoa toisilleen motiiveistaan ja suuntauksestaan omalla vauhdillaan.
 
-> suuntauksen ja motiivien kertomatta jättämisestä, tai valehtelijaksi paljastumisesta voi olla haitaksi. Muut hahmot ja maailman muut olennot voivat tulevaisuudessa pitää hahmoasi epäluotettavana ja juonittelevana.
+> Suuntauksen ja motiivien kertomatta jättämisestä, tai valehtelijaksi paljastumisesta voi olla haitaksi. Muut hahmot ja maailman muut olennot voivat tulevaisuudessa pitää hahmoasi epäluotettavana ja juonittelevana.
 
 ### 7. Esittele itsesi muille pelaajille ja Game Masterille
 
