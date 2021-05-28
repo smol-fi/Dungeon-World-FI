@@ -131,15 +131,15 @@ Jokaisen hahmoluokan paitsi Thief on pakko valita olemaan kertomatta suuntaukses
 
 ### 7. Esittele itsesi muille pelaajille ja Game Masterille
 
-Nyt on aika esitellä hahmosi sekä muille pelaajille, että Game Masterille. Kerro miltä hahmosi näyttää, kuka hän on, sekä minkä luokan valitsit ja muut seikat jotka vaaditaan, jotta *hahmot* oppivat tuntemaan *sinun hahmosi*. Esittely voidaan keskeyttää yksityiskohtien edistämiseksi. GM voi esimerkiksi kysyä jos hahmosi on ennen tavannut jonkun muista hahmoista, hahmon siteistä muihin hahmoisin sekä muita tarinaa syventäviä seikkoja.
+Nyt on aika esitellä hahmosi sekä muille pelaajille, että Game Masterille. Kerro miltä hahmosi näyttää, kuka hän on, sekä minkä luokan valitsit ja muut seikat jotka vaaditaan, jotta *pelaajat* oppivat tuntemaan *hahmosi*. Esittely voidaan keskeyttää yksityiskohtien edistämiseksi. GM voi esimerkiksi kysyä jos hahmosi on ennen tavannut jonkun muista hahmoista, hahmon siteistä muihin hahmoisin sekä muita tarinaa syventäviä seikkoja.
 
-> Tämä vaihe saattaa vaikuttaa turhalta, mutta useimmiten johtaa kiinnostavampaan hahmoon ja sen paikkaan *tarinassa*.
+> Tämä vaihe saattaa vaikuttaa turhalta, mutta useimmiten johtaa kiinnostavampaan hahmoon ja sen paikkaan *tarinassa* muiden pelaajien vuorovaikutuksen myötä.
 
 ### 8. Päätä hahmojen suhteet
 
-Kun hahmot tuntevat toisensa, on aika päättää niiden väliset suhteet. Suhteilla tarkoitetaan hahmojen välisiä siteitä, jotka syventävät hahmojenvälistä kanssakäymistä. Jokaisen pelaajan on valittava vähintään yksi suhde, mutta parhaaseen lopputulokseen päästään jos täytetään useampi. Samaa hahmoa saa käyttää useammassa kuin yhdessä suhteessa.
+Kun *pelaajat* tuntevat toistensa *hahmot*, on aika päättää hahmojen väliset suhteet. Suhteilla tarkoitetaan hahmojen välisiä siteitä, jotka syventävät hahmojenvälistä kanssakäymistä. Jokaisen pelaajan on valittava vähintään yksi suhde, mutta parhaaseen lopputulokseen päästään jos täytetään useampi. Samaa muun pelaajan hahmoa saa käyttää useammassa kuin yhdessä suhteessa.
 
-> Hahmojen ja heidän suuntausten tärkeyden ja merkityksen ei välttämättä tarvitse paljastua alusta, vaan niitä voi vaalia myöhempään vaiheeseen, kun *tarina* on ehtinyt kehittyä.
+> Hahmojen ja heidän suuntausten tärkeyden ja merkityksen ei välttämättä tarvitse paljastua alusta, vaan niitä voi vaalia myöhempään vaiheeseen, kun tarina on ehtinyt kehittyä.
 
 Keskustelkaa muiden pelaajien, sekä GM:n kesken jokaiset suhteet ja mieti miten sekä omat, että muiden hahmojen suhteet vaikuttavat hahmosi käyttäytymiseen muita kohtaan. Tee viime hetken muutoksia suhteisiisi ja ilmoita niistä muille.
 
