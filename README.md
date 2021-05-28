@@ -71,11 +71,11 @@ Constitutionia (CON) käytetään hahmon maksimielämän laskemiseen yksinkertai
 
 Jotkut luokista vaativat yhden tai useamman aloituskyvyistä. Jos kaikki aloituskyvyt ovat hahmosivulta esivalittuja, voi heti jatkaa seuraavaan vaiheeseen. Jotkin luokista (esim. Wizard) joutuvat valitsemaan loitsuja sekä muita aloituskykyjä, myös tämä kuuluu tehdä tässä vaiheessa.
 
-### 6. Päätä hahmosi linjaus
+### 6. Päätä hahmosi suuntaus
 
-Jokaisella hahmolla on jonkinlainen motiivi, joka määritellään linjausten mukaisesti. Motiivin täyttämisestä saadaan kokemuspisteitä, joilla voi nostaa hahmonsa tasoa. Mieti minkälainen linjaus sopii parhaiten hahmollesi ja aiempia päätöksiäsi, sekä miten linjaus voi johtaa kiinnostaviin juonenkäänteisiin pelin kulkiessa.
+Jokaisella hahmolla on jonkinlainen motiivi, joka määritellään suuntausten mukaisesti. Motiivin täyttämisestä saadaan kokemuspisteitä, joilla voi nostaa hahmonsa tasoa. Mieti minkälainen suuntaus sopii parhaiten hahmollesi ja aiempia päätöksiäsi, sekä miten suuntaus voi johtaa kiinnostaviin juonenkäänteisiin pelin kulkiessa.
 
-* __Huomioi, että alkulinjaus päätetään hiljaisuudessa, eikä siitä ole pakko kertoa muille, ellei halua.__
+* __Huomioi, että alkusuuntaus päätetään hiljaisuudessa, eikä siitä ole pakko kertoa muille, ellei halua.__
 
 > Ilkeät hahmot ilmoittavat muille harvoin olevansa ilkeitä, vaan asettavat itsensä tai motiivinsa yleensä ennen muita, joskus välittämättä seurauksista. Älä kuitenkaan sokeasti yritä täyttää motiiviasi, vaan yritä sujuvasti saada sitä osaksi pelin kulkua ja tarinan kehittymistä. Kokenut pelaaja osaa täyttää hahmonsa motiivin lähes muiden huomaamatta!
 
@@ -87,7 +87,7 @@ Hahmon motiivia saa myös muuttaa linjauksen sisäisesti, joka kuvastaa lähinn�
 
 ### Linjauksia ja esimerkkimotiiveja
 
-Alla ovat pelin linjaukset, sekä esimerkkejä niiden motiiveista. Esimerkkimotiivit ovat hyvä tapa oppia linjausten ainutlaatuisuuksista ja ominaisuuksista.
+Alla ovat pelin linjaukset, sekä esimerkkejä niiden motiiveista. Esimerkkimotiivit ovat hyvä tapa oppia suuntausten ainutlaatuisuuksista ja ominaisuuksista.
 
 > Linjaukset eivät myöskään ole kiveen hakattuja, vaan myös ne mukautuvat *tarinan* ja pelin kulun mukaan.
 
@@ -139,7 +139,7 @@ Nyt on aika esitellä hahmosi sekä muille pelaajille, että Game Masterille. Ke
 
 Kun hahmot tuntevat toisensa, on aika päättää niiden väliset suhteet. Suhteilla tarkoitetaan hahmojen välisiä siteitä, jotka syventävät hahmojenvälistä kanssakäymistä. Jokaisen pelaajan on valittava vähintään yksi suhde, mutta parhaaseen lopputulokseen päästään jos täytetään useampi. Samaa hahmoa saa käyttää useammassa kuin yhdessä suhteessa.
 
-> Hahmojen ja heidän linjausten tärkeyden ja merkityksen ei välttämättä tarvitse paljastua alusta, vaan niitä voi vaalia myöhempään vaiheeseen, kun *tarina* on ehtinyt kehittyä.
+> Hahmojen ja heidän suuntausten tärkeyden ja merkityksen ei välttämättä tarvitse paljastua alusta, vaan niitä voi vaalia myöhempään vaiheeseen, kun *tarina* on ehtinyt kehittyä.
 
 Keskustelkaa muiden pelaajien, sekä GM:n kesken jokaiset suhteet ja mieti miten sekä omat, että muiden hahmojen suhteet vaikuttavat hahmosi käyttäytymiseen muita kohtaan. Tee viime hetken muutoksia suhteisiisi ja ilmoita niistä muille.
 
