@@ -139,7 +139,7 @@ Nyt on aika esitellä hahmosi sekä muille pelaajille, että Game Masterille. Ke
 
 Kun *pelaajat* tuntevat toistensa *hahmot*, on aika päättää hahmojen väliset suhteet. Suhteilla tarkoitetaan hahmojen välisiä siteitä, jotka syventävät hahmojenvälistä kanssakäymistä. Jokaisen pelaajan on valittava vähintään yksi suhde, mutta parhaaseen lopputulokseen päästään jos täytetään useampi. Samaa muun pelaajan hahmoa saa käyttää useammassa kuin yhdessä suhteessa.
 
-> Hahmojen ja heidän suuntausten tärkeyden ja merkityksen ei välttämättä tarvitse paljastua alusta, vaan niitä voi vaalia myöhempään vaiheeseen, kun tarina on ehtinyt kehittyä.
+> Hahmojen ja heidän suhteiden (sekä suuntauksen/motiivien) tärkeyden ja merkityksen ei välttämättä tarvitse paljastua alusta, vaan niitä voi vaalia myöhempään vaiheeseen, kun tarina on ehtinyt kehittyä.
 
 Keskustelkaa muiden pelaajien, sekä GM:n kesken jokaiset suhteet ja mieti miten sekä omat, että muiden hahmojen suhteet vaikuttavat hahmosi käyttäytymiseen muita kohtaan. Tee viime hetken muutoksia suhteisiisi ja ilmoita niistä muille.
 
