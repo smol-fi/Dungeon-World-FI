@@ -81,15 +81,15 @@ Jokaisella hahmolla on jonkinlainen motiivi, joka määritellään suuntausten m
 
 Hahmon motiivin täyttyessä pelin aikana, saa hahmo kokemuspisteen session lopussa (tai muuten sovittuina aikoina). Pelaaja saa motiivin täytyttyä itse keksiä uuden motiivin, tai valita valmiiden motiivien listalta jonkin hahmolleen sopivan.
 
-Jos pelaajan mielestä hahmon maailmankuva on muuttunut, voi hän milloin tahansa GM:n luvalla muuttaa hahmonsa linjauksen.
+Jos pelaajan mielestä hahmon maailmankuva on muuttunut, voi hän milloin tahansa GM:n luvalla muuttaa hahmonsa suuntauksen.
 
-Hahmon motiivia saa myös muuttaa linjauksen sisäisesti, joka kuvastaa lähinnä prioriteettien muuttumista, eikä täyttä muunnosta hahmon ajattelussa.
+Hahmon motiivia saa myös muuttaa suuntauksen sisäisesti, joka kuvastaa lähinnä prioriteettien muuttumista, eikä täyttä muunnosta hahmon ajattelussa.
 
-### Linjauksia ja esimerkkimotiiveja
+### suuntauksia ja esimerkkimotiiveja
 
-Alla ovat pelin linjaukset, sekä esimerkkejä niiden motiiveista. Esimerkkimotiivit ovat hyvä tapa oppia suuntausten ainutlaatuisuuksista ja ominaisuuksista.
+Alla ovat pelin suuntaukset, sekä esimerkkejä niiden motiiveista. Esimerkkimotiivit ovat hyvä tapa oppia suuntausten ainutlaatuisuuksista ja ominaisuuksista.
 
-> Linjaukset eivät myöskään ole kiveen hakattuja, vaan myös ne mukautuvat *tarinan* ja pelin kulun mukaan.
+> suuntaukset eivät myöskään ole kiveen hakattuja, vaan myös ne mukautuvat *tarinan* ja pelin kulun mukaan.
 
 #### Lain ylläpitäjä (Lawful)
 * Ylläpidä maan lakeja
@@ -125,9 +125,9 @@ Alla ovat pelin linjaukset, sekä esimerkkejä niiden motiiveista. Esimerkkimoti
 * Järkytä oikeudenmukaista järjestystä
 * Vahingoita jotain viatonta
 
-Jokaisen hahmoluokan paitsi Thief on pakko valita olemaan kertomatta linjauksestaan muille pelaajille, GM:lle tai muille olennoille, tai kertomaan joko puolitotuuden tai totuuden kokonaisuudessaan. Thief saa valehdella vapaasti, oman mielensä mukaan. Myöhemmin hahmot voivat kertoa toisilleen motiiveistaan ja linjauksestaan omalla vauhdillaan.
+Jokaisen hahmoluokan paitsi Thief on pakko valita olemaan kertomatta suuntauksestaan muille pelaajille, GM:lle tai muille olennoille, tai kertomaan joko puolitotuuden tai totuuden kokonaisuudessaan. Thief saa valehdella vapaasti, oman mielensä mukaan. Myöhemmin hahmot voivat kertoa toisilleen motiiveistaan ja suuntauksestaan omalla vauhdillaan.
 
-> Linjauksen ja motiivien kertomatta jättämisestä, tai valehtelijaksi paljastumisesta voi olla haitaksi. Muut hahmot ja maailman muut olennot voivat tulevaisuudessa pitää hahmoasi epäluotettavana ja juonittelevana.
+> suuntauksen ja motiivien kertomatta jättämisestä, tai valehtelijaksi paljastumisesta voi olla haitaksi. Muut hahmot ja maailman muut olennot voivat tulevaisuudessa pitää hahmoasi epäluotettavana ja juonittelevana.
 
 ### 7. Esittele itsesi muille pelaajille ja Game Masterille
 
