@@ -51,6 +51,8 @@ Monet luokat tai rodut vaativat jonkin huomattavan eroavaisuuden tyypillisestä 
 
 Tutki attribuutit: STR, DEX, CON, INT, WIS ja CHA. Mieti miten valitsemasi luokka hyötyy näistä. Katso sekä kaikkien osaamat kyvyt, että hahmosi rodun ja luokan uniikit kyvyt. Määrittele näiden perusteella omasta mielestäsi hahmollesi parhaimmat tai kiinnostavimmat attribuutit.
 
+Jokainen hahmo saa alussa käyttää attribuuttiarvoja: 16. 15. 13. 12. 9 ja 8. Nämä asetetaan valittuihin attribuutteihin siten, miten pelaaja itse kokee hahmolleen soveliaimmaksi.
+
 Kun olet asettanut attribuutit, laske allaolevan taulukon mukaisesti noppamuuttujat ja täytä ne hahmosivuusi.
 
 | Pisteet | Muuttujat   |
